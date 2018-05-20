@@ -1,0 +1,15 @@
+.token.selector{
+    color: black;
+}
+.token.property{
+    color: black;
+}
+.token.comment{
+    color: black;
+}
+.token.punctuation{
+    color: black;
+}
+.token.function{
+    color: black;
+}
